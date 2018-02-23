@@ -1,0 +1,19 @@
+[13-Oct-2017 11:30:36 UTC] PHP Fatal error:  Call to a member function selectWhere() on null in /home/dev14onlinetesti/public_html/travalab/application/controllers/Site.php on line 111
+[13-Oct-2017 11:30:43 UTC] PHP Fatal error:  Call to a member function selectWhere() on null in /home/dev14onlinetesti/public_html/travalab/application/controllers/Site.php on line 111
+[13-Oct-2017 11:30:44 UTC] PHP Fatal error:  Call to a member function selectWhere() on null in /home/dev14onlinetesti/public_html/travalab/application/controllers/Site.php on line 111
+[13-Oct-2017 11:31:33 UTC] PHP Fatal error:  Call to a member function selectWhere() on null in /home/dev14onlinetesti/public_html/travalab/application/controllers/Site.php on line 111
+[13-Oct-2017 12:01:57 UTC] PHP Fatal error:  Call to a member function selectWhere() on null in /home/dev14onlinetesti/public_html/travalab/application/controllers/Site.php on line 111
+[13-Nov-2017 13:19:52 UTC] PHP Fatal error:  Call to undefined method Services::generateRandomString() in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 36
+[14-Nov-2017 11:59:43 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 59
+[14-Nov-2017 11:59:51 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 59
+[14-Nov-2017 12:23:53 UTC] PHP Fatal error:  Call to undefined function authenticateUser() in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 72
+[14-Nov-2017 12:24:03 UTC] PHP Fatal error:  Call to undefined function authenticateUser() in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 72
+[14-Nov-2017 12:25:31 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 98
+[14-Nov-2017 13:13:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 41
+[14-Nov-2017 13:33:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 215
+[14-Nov-2017 13:34:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 215
+[14-Nov-2017 13:41:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dev14onlinetesti/public_html/travalab/application/controllers/Services.php on line 78
+[27-Nov-2017 11:27:16 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dev14onlinetesti/public_html/travalab/system/libraries/Form_validation.php on line 147
+[27-Nov-2017 11:31:38 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dev14onlinetesti/public_html/travalab/system/libraries/Form_validation.php on line 147
+[27-Nov-2017 11:32:09 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dev14onlinetesti/public_html/travalab/system/libraries/Form_validation.php on line 147
+[27-Nov-2017 11:32:47 UTC] PHP Fatal error:  Call to a member function helper() on null in /home/dev14onlinetesti/public_html/travalab/system/libraries/Form_validation.php on line 147

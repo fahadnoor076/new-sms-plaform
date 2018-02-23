@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07cdaf45-a5b6-4b3d-afba-e940d008aed7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="my-custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/my-custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5270">
+              <caret line="310" column="56" lean-forward="false" selection-start-line="310" selection-start-column="56" selection-end-line="310" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Site.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Site.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="554" column="51" lean-forward="false" selection-start-line="554" selection-start-column="51" selection-end-line="554" selection-end-column="51" />
+              <folding>
+                <element signature="n#index#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#error404#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#dashboardView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#countriesView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#listView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#campaignsView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#usersView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#addUsersView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#addCampaignView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#sendCampaignView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#addCountriesView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#campaignNumbersView#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#addCampaignNumbers#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#isLogin#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#check_phone#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#get_client_ip_server#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#submitLogin#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#validate_plus#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#submitCountries#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#deleteUsers#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#deleteCountries#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#deleteCampaignNumbers#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#submitListing#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="e#19284#20313#0#PHP" expanded="false" />
+                <element signature="n#submitCampaign#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#getNumbersCampaignByListing#0;n#Site#0;n#!!top" expanded="false" />
+                <element signature="n#logOut#0;n#Site#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Twilio.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/libraries/Twilio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/listings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="46" column="86" lean-forward="false" selection-start-line="46" selection-start-column="86" selection-end-line="46" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-users.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/add-users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="244" lean-forward="false" selection-start-line="61" selection-start-column="244" selection-end-line="61" selection-end-column="244" />
+              <folding>
+                <marker date="1519135240827" expanded="true" signature="4501:4503" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-campaign-numbers.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/add-campaign-numbers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/common/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/common/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="97" lean-forward="false" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5984">
+              <caret line="352" column="556" lean-forward="false" selection-start-line="352" selection-start-column="553" selection-end-line="352" selection-end-column="556" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userId</find>
+      <find>n sen</find>
+      <find>n sub</find>
+      <find>n coun</find>
+      <find>phone</find>
+      <find>USERS</find>
+      <find>edit-country.html</find>
+      <find>COUNTRIES</find>
+      <find>edit-campaign-numbers.html</find>
+      <find>add-campaign-number.html</find>
+      <find>selectCountry</find>
+      <find>selectCountryCampaign</find>
+      <find>add-campaign.html</find>
+      <find>reset</find>
+      <find>campaign-numbers</find>
+      <find>addCampaignView</find>
+      <find>$listingCountry</find>
+      <find>$this-&gt;library</find>
+      <find>library</find>
+      <find>str_len</find>
+      <find>deleteListing</find>
+      <find>john</find>
+      <find>list</find>
+      <find>sendCam</find>
+      <find>listing</find>
+      <find>user</find>
+      <find>html += '</find>
+      <find>maps</find>
+      <find>map</find>
+      <find>delete</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;?php echo base_url(); ?&gt;</replace>
+      <replace>count</replace>
+      <replace>strlen</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/js/scripts/tables/datatables/datatable-advanced.js" />
+        <option value="$PROJECT_DIR$/application/views/users.php" />
+        <option value="$PROJECT_DIR$/application/libraries/CSV Reader.php" />
+        <option value="$PROJECT_DIR$/application/libraries/CSVReader.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Excel.php" />
+        <option value="$PROJECT_DIR$/application/views/list.php" />
+        <option value="$PROJECT_DIR$/application/views/campaigns.php" />
+        <option value="$PROJECT_DIR$/application/views/index.php" />
+        <option value="$PROJECT_DIR$/application/views/countries.php" />
+        <option value="$PROJECT_DIR$/application/views/common/navigation.php" />
+        <option value="$PROJECT_DIR$/application/views/add-campaign-numbers.php" />
+        <option value="$PROJECT_DIR$/application/views/campaign-numbers.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/config/constants.php" />
+        <option value="$PROJECT_DIR$/application/views/common/header.php" />
+        <option value="$PROJECT_DIR$/application/views/add-countries.php" />
+        <option value="$PROJECT_DIR$/application/views/common/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/add-campaign.php" />
+        <option value="$PROJECT_DIR$/application/models/Home_Model.php" />
+        <option value="$PROJECT_DIR$/application/views/listings.php" />
+        <option value="$PROJECT_DIR$/assets/js/my-custom.js" />
+        <option value="$PROJECT_DIR$/application/views/add-users.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Twilio.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Site.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sms-platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sms-platform" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="sms-platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sms-platform" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp64\www\sms-platform\application\views" />
+      <recent name="D:\wamp64\www\sms-platform\uploads\testing excels" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wamp64\www\sms-platform\application\third_party" />
+      <recent name="D:\wamp64\www\sms-platform\application\libraries" />
+      <recent name="D:\wamp64\www\sms-platform\application\libraries\ci-excel-reader" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07cdaf45-a5b6-4b3d-afba-e940d008aed7" name="Default" comment="" />
+      <created>1517326163571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517326163571</updated>
+      <workItem from="1517326166639" duration="46000" />
+      <workItem from="1517387934226" duration="42995000" />
+      <workItem from="1517593398856" duration="172000" />
+      <workItem from="1517935209917" duration="51015000" />
+      <workItem from="1518426843248" duration="65750000" />
+      <workItem from="1519030021599" duration="239000" />
+      <workItem from="1519030285586" duration="23840000" />
+      <workItem from="1519296625867" duration="614000" />
+      <workItem from="1519386413503" duration="20000" />
+      <workItem from="1519404882291" duration="1255000" />
+      <workItem from="1519406285177" duration="52000" />
+    </task>
+    <task id="LOCAL-00001" summary="db">
+      <created>1517504528596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517504528596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="db">
+      <created>1517593434798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517593434798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="db">
+      <created>1517593489726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517593489726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="6-2-18&#10;with EXCEL FILE reading">
+      <created>1517940547889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517940547890</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6-2-18&#10;with EXCEL FILE reading">
+      <created>1517940552759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517940552759</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6-2-18&#10;with EXCEL FILE reading">
+      <created>1517940600996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517940600996</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6-2-18&#10;with EXCEL FILE reading">
+      <created>1517940867886</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517940867886</updated>
+    </task>
+    <task id="LOCAL-00008" summary="6-2-18&#10;with EXCEL FILE reading">
+      <created>1517940905587</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1517940905587</updated>
+    </task>
+    <task id="LOCAL-00009" summary="6-2-18&#10;with EXCEL FILE reading">
+      <created>1517940983436</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1517940983436</updated>
+    </task>
+    <task id="LOCAL-00010" summary="9-2-18">
+      <created>1518196327695</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1518196327695</updated>
+    </task>
+    <task id="LOCAL-00011" summary="9-2-18">
+      <created>1518196452551</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1518196452551</updated>
+    </task>
+    <task id="LOCAL-00012" summary="9-2-18">
+      <created>1518196644853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1518196644853</updated>
+    </task>
+    <task id="LOCAL-00013" summary="9-2-18">
+      <created>1518797847370</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1518797847370</updated>
+    </task>
+    <task id="LOCAL-00014" summary="16-2-18">
+      <created>1518797880493</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1518797880493</updated>
+    </task>
+    <task id="LOCAL-00015" summary="16-2-18">
+      <created>1518797920017</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1518797920017</updated>
+    </task>
+    <task id="LOCAL-00016" summary="23-2-18">
+      <created>1519405559528</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1519405559528</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="185998000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25373134" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="db" />
+    <MESSAGE value="6-2-18&#10;with EXCEL FILE reading" />
+    <MESSAGE value="9-2-18" />
+    <MESSAGE value="16-2-18" />
+    <MESSAGE value="23-2-18" />
+    <option name="LAST_COMMIT_MESSAGE" value="23-2-18" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="12" lean-forward="false" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="250" column="46" lean-forward="false" selection-start-line="250" selection-start-column="46" selection-end-line="250" selection-end-column="46" />
+          <folding>
+            <element signature="n#index#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#error404#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#dashboardView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#countriesView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#listView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#campaignsView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#usersView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addUsersView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addCampaignView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#sendCampaignView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addCountriesView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#campaignNumbersView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addCampaignNumbers#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#isLogin#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#check_phone#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#get_client_ip_server#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#submitLogin#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#validate_plus#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#submitCountries#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#deleteUsers#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#deleteCountries#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#deleteCampaignNumbers#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#submitListing#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="e#19284#20313#0#PHP" expanded="false" />
+            <element signature="n#submitCampaign#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#getNumbersCampaignByListing#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#logOut#0;n#Site#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts/customizer.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts/tables/datatables/datatable-styling.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts/tables/datatables/datatable-basic.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts/tables/datatables/datatable-api.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts/tables/datatables/datatable-advanced.js" />
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Examples/01simple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/CSVReader.php" />
+    <entry file="file://$PROJECT_DIR$/application/libraries/oleread.inc.php" />
+    <entry file="file://$PROJECT_DIR$/application/libraries/Excel_reader.php" />
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Classes/PHPExcel/Cell/DataValidation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Classes/PHPExcel/Cell/IValueBinder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Classes/PHPExcel/Cell/Hyperlink.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Classes/PHPExcel/Cell/DataType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Build/build-release-documentation.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Build/build-release-standard.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Build/build-release-phar.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Build/build-release-pear.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Build/PharStub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Build/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/custom_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="81" lean-forward="false" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/lists/test" />
+    <entry file="file://$PROJECT_DIR$/application/views/campaigns.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="42" column="60" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts/charts/gmaps/routes.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/countries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="61" column="120" lean-forward="true" selection-start-line="61" selection-start-column="104" selection-end-line="61" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/campaign-numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="127" lean-forward="false" selection-start-line="59" selection-start-column="127" selection-end-line="59" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="54" lean-forward="false" selection-start-line="99" selection-start-column="54" selection-end-line="99" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Excel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="58" lean-forward="false" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="13" lean-forward="false" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/add-countries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="41" column="69" lean-forward="false" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/add-campaign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="80" column="42" lean-forward="true" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Home_Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="147" column="52" lean-forward="true" selection-start-line="147" selection-start-column="52" selection-end-line="147" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/listings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="86" lean-forward="false" selection-start-line="46" selection-start-column="86" selection-end-line="46" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/add-campaign-numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/my-custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5270">
+          <caret line="310" column="56" lean-forward="false" selection-start-line="310" selection-start-column="56" selection-end-line="310" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/add-users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="244" lean-forward="false" selection-start-line="61" selection-start-column="244" selection-end-line="61" selection-end-column="244" />
+          <folding>
+            <marker date="1519135240827" expanded="true" signature="4501:4503" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="97" lean-forward="false" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="352" column="556" lean-forward="false" selection-start-line="352" selection-start-column="553" selection-end-line="352" selection-end-column="556" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Twilio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="554" column="51" lean-forward="false" selection-start-line="554" selection-start-column="51" selection-end-line="554" selection-end-column="51" />
+          <folding>
+            <element signature="n#index#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#error404#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#dashboardView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#countriesView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#listView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#campaignsView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#usersView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addUsersView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addCampaignView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#sendCampaignView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addCountriesView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#campaignNumbersView#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#addCampaignNumbers#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#isLogin#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#check_phone#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#get_client_ip_server#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#submitLogin#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#validate_plus#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#submitCountries#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#deleteUsers#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#deleteCountries#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#deleteCampaignNumbers#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#submitListing#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="e#19284#20313#0#PHP" expanded="false" />
+            <element signature="n#submitCampaign#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#getNumbersCampaignByListing#0;n#Site#0;n#!!top" expanded="false" />
+            <element signature="n#logOut#0;n#Site#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
